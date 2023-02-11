@@ -11,7 +11,7 @@ My purpose is to try to abstract many things that are not so necessary to learn 
 
 <h1>Programming has to give you freedom, but that freedom shouldn't get in your way.</h1>
 
-<h2>I'll going to start updating this readme, but this is <i> one of mi first steps</i> </h2>
+<h2>I'll going to start updating this readme, but this is <i> one of my first steps</i> </h2>
 <br>
 
 <p>
@@ -22,5 +22,5 @@ My purpose is to try to abstract many things that are not so necessary to learn 
   Freedom, equality and discipline, at NEWCORP.
 </h3>
 
-Enjoy (with caution)!
+Enjoy <strong>(with caution)</strong>!
 
